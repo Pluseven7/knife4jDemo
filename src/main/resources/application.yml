@@ -1,0 +1,7 @@
+server:
+  port: 7777
+
+spring:
+  thymeleaf:
+    check-template: false
+    check-template-location: false
